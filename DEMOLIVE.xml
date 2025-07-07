@@ -422,11 +422,163 @@
 						<Sample>
 							<ArrangerAutomation>
 								<Events>
+									<AudioClip Id="1" Time="288">
+										<LomId Value="0" />
+										<LomIdView Value="0" />
+										<CurrentStart Value="288" />
+										<CurrentEnd Value="320" />
+										<Loop>
+											<LoopStart Value="0" />
+											<LoopEnd Value="8" />
+											<StartRelative Value="0" />
+											<LoopOn Value="true" />
+											<OutMarker Value="8" />
+											<HiddenLoopStart Value="0" />
+											<HiddenLoopEnd Value="8" />
+										</Loop>
+										<Name Value="BW_Shaker_Loop_122_05" />
+										<Annotation Value="" />
+										<Color Value="2" />
+										<LaunchMode Value="0" />
+										<LaunchQuantisation Value="0" />
+										<TimeSignature>
+											<TimeSignatures>
+												<RemoteableTimeSignature Id="0">
+													<Numerator Value="4" />
+													<Denominator Value="4" />
+													<Time Value="0" />
+												</RemoteableTimeSignature>
+											</TimeSignatures>
+										</TimeSignature>
+										<Envelopes>
+											<Envelopes />
+										</Envelopes>
+										<ScrollerTimePreserver>
+											<LeftTime Value="0" />
+											<RightTime Value="8" />
+										</ScrollerTimePreserver>
+										<TimeSelection>
+											<AnchorTime Value="0" />
+											<OtherTime Value="0" />
+										</TimeSelection>
+										<Legato Value="false" />
+										<Ram Value="false" />
+										<GrooveSettings>
+											<GrooveId Value="-1" />
+										</GrooveSettings>
+										<Disabled Value="false" />
+										<VelocityAmount Value="0" />
+										<FollowAction>
+											<FollowTime Value="4" />
+											<IsLinked Value="true" />
+											<LoopIterations Value="1" />
+											<FollowActionA Value="4" />
+											<FollowActionB Value="0" />
+											<FollowChanceA Value="100" />
+											<FollowChanceB Value="0" />
+											<JumpIndexA Value="1" />
+											<JumpIndexB Value="1" />
+											<FollowActionEnabled Value="false" />
+										</FollowAction>
+										<Grid>
+											<FixedNumerator Value="1" />
+											<FixedDenominator Value="16" />
+											<GridIntervalPixel Value="20" />
+											<Ntoles Value="2" />
+											<SnapToGrid Value="true" />
+											<Fixed Value="false" />
+										</Grid>
+										<FreezeStart Value="0" />
+										<FreezeEnd Value="0" />
+										<IsWarped Value="true" />
+										<TakeId Value="2" />
+										<IsInKey Value="false" />
+										<ScaleInformation>
+											<Root Value="0" />
+											<Name Value="0" />
+										</ScaleInformation>
+										<SampleRef>
+											<FileRef>
+												<RelativePathType Value="1" />
+												<RelativePath Value="../../Documents/Libraries/Basic Wavez - Gentle Hats And Shakers Vol. 2/Shaker Loops/BW_Shaker_Loop_122_05.wav" />
+												<Path Value="/Users/marianoribas/Documents/Libraries/Basic Wavez - Gentle Hats And Shakers Vol. 2/Shaker Loops/BW_Shaker_Loop_122_05.wav" />
+												<Type Value="2" />
+												<LivePackName Value="" />
+												<LivePackId Value="" />
+												<OriginalFileSize Value="1041134" />
+												<OriginalCrc Value="25070" />
+											</FileRef>
+											<LastModDate Value="1727096280" />
+											<SourceContext>
+												<SourceContext Id="0">
+													<OriginalFileRef>
+														<FileRef Id="0">
+															<RelativePathType Value="1" />
+															<RelativePath Value="../../Documents/Libraries/Basic Wavez - Gentle Hats And Shakers Vol. 2/Shaker Loops/BW_Shaker_Loop_122_05.wav" />
+															<Path Value="/Users/marianoribas/Documents/Libraries/Basic Wavez - Gentle Hats And Shakers Vol. 2/Shaker Loops/BW_Shaker_Loop_122_05.wav" />
+															<Type Value="2" />
+															<LivePackName Value="" />
+															<LivePackId Value="" />
+															<OriginalFileSize Value="1041134" />
+															<OriginalCrc Value="25070" />
+														</FileRef>
+													</OriginalFileRef>
+													<BrowserContentPath Value="userfolder:/Users/marianoribas/Documents/Libraries#Basic%20Wavez%20-%20Gentle%20Hats%20And%20Shakers%20Vol.%202:Shaker%20Loops:BW_Shaker_Loop_122_05.wav" />
+													<LocalFiltersJson Value="" />
+												</SourceContext>
+											</SourceContext>
+											<SampleUsageHint Value="0" />
+											<DefaultDuration Value="173509" />
+											<DefaultSampleRate Value="44100" />
+											<SamplesToAutoWarp Value="1" />
+										</SampleRef>
+										<Onsets>
+											<UserOnsets />
+											<HasUserOnsets Value="false" />
+										</Onsets>
+										<WarpMode Value="4" />
+										<GranularityTones Value="30" />
+										<GranularityTexture Value="65" />
+										<FluctuationTexture Value="25" />
+										<TransientResolution Value="6" />
+										<TransientLoopMode Value="2" />
+										<TransientEnvelope Value="100" />
+										<ComplexProFormants Value="100" />
+										<ComplexProEnvelope Value="128" />
+										<Sync Value="true" />
+										<HiQ Value="true" />
+										<Fade Value="false" />
+										<Fades>
+											<FadeInLength Value="0" />
+											<FadeOutLength Value="0" />
+											<ClipFadesAreInitialized Value="true" />
+											<CrossfadeInState Value="0" />
+											<FadeInCurveSkew Value="0" />
+											<FadeInCurveSlope Value="0" />
+											<FadeOutCurveSkew Value="0" />
+											<FadeOutCurveSlope Value="0" />
+											<IsDefaultFadeIn Value="false" />
+											<IsDefaultFadeOut Value="false" />
+										</Fades>
+										<PitchCoarse Value="0" />
+										<PitchFine Value="0" />
+										<SampleVolume Value="1" />
+										<WarpMarkers>
+											<WarpMarker Id="0" SecTime="0" BeatTime="0" />
+											<WarpMarker Id="1" SecTime="3.9344444444444444" BeatTime="8" />
+											<WarpMarker Id="2" SecTime="3.9498133680555556" BeatTime="8.03125" />
+										</WarpMarkers>
+										<SavedWarpMarkersForStretched />
+										<MarkersGenerated Value="true" />
+										<IsSongTempoLeader Value="false" />
+										<AutoWarpPending Value="false" />
+										<WasMuted Value="false" />
+									</AudioClip>
 									<AudioClip Id="0" Time="320">
 										<LomId Value="0" />
 										<LomIdView Value="0" />
 										<CurrentStart Value="320" />
-										<CurrentEnd Value="384" />
+										<CurrentEnd Value="352" />
 										<Loop>
 											<LoopStart Value="0" />
 											<LoopEnd Value="8" />
@@ -512,7 +664,7 @@
 											<SourceContext>
 												<SourceContext Id="0">
 													<OriginalFileRef>
-														<FileRef Id="0">
+														<FileRef Id="1">
 															<RelativePathType Value="1" />
 															<RelativePath Value="../../Documents/Libraries/Basic Wavez - Gentle Hats And Shakers Vol. 2/Shaker Loops/BW_Shaker_Loop_122_04.wav" />
 															<Path Value="/Users/marianoribas/Documents/Libraries/Basic Wavez - Gentle Hats And Shakers Vol. 2/Shaker Loops/BW_Shaker_Loop_122_04.wav" />
@@ -524,6 +676,310 @@
 														</FileRef>
 													</OriginalFileRef>
 													<BrowserContentPath Value="userfolder:/Users/marianoribas/Documents/Libraries#Basic%20Wavez%20-%20Gentle%20Hats%20And%20Shakers%20Vol.%202:Shaker%20Loops:BW_Shaker_Loop_122_04.wav" />
+													<LocalFiltersJson Value="" />
+												</SourceContext>
+											</SourceContext>
+											<SampleUsageHint Value="0" />
+											<DefaultDuration Value="173509" />
+											<DefaultSampleRate Value="44100" />
+											<SamplesToAutoWarp Value="1" />
+										</SampleRef>
+										<Onsets>
+											<UserOnsets />
+											<HasUserOnsets Value="false" />
+										</Onsets>
+										<WarpMode Value="4" />
+										<GranularityTones Value="30" />
+										<GranularityTexture Value="65" />
+										<FluctuationTexture Value="25" />
+										<TransientResolution Value="6" />
+										<TransientLoopMode Value="2" />
+										<TransientEnvelope Value="100" />
+										<ComplexProFormants Value="100" />
+										<ComplexProEnvelope Value="128" />
+										<Sync Value="true" />
+										<HiQ Value="true" />
+										<Fade Value="false" />
+										<Fades>
+											<FadeInLength Value="0" />
+											<FadeOutLength Value="0" />
+											<ClipFadesAreInitialized Value="true" />
+											<CrossfadeInState Value="0" />
+											<FadeInCurveSkew Value="0" />
+											<FadeInCurveSlope Value="0" />
+											<FadeOutCurveSkew Value="0" />
+											<FadeOutCurveSlope Value="0" />
+											<IsDefaultFadeIn Value="false" />
+											<IsDefaultFadeOut Value="false" />
+										</Fades>
+										<PitchCoarse Value="0" />
+										<PitchFine Value="0" />
+										<SampleVolume Value="1" />
+										<WarpMarkers>
+											<WarpMarker Id="0" SecTime="0" BeatTime="0" />
+											<WarpMarker Id="1" SecTime="3.9344444444444444" BeatTime="8" />
+											<WarpMarker Id="2" SecTime="3.9498133680555556" BeatTime="8.03125" />
+										</WarpMarkers>
+										<SavedWarpMarkersForStretched />
+										<MarkersGenerated Value="true" />
+										<IsSongTempoLeader Value="false" />
+										<AutoWarpPending Value="false" />
+										<WasMuted Value="false" />
+									</AudioClip>
+									<AudioClip Id="2" Time="352">
+										<LomId Value="0" />
+										<LomIdView Value="0" />
+										<CurrentStart Value="352" />
+										<CurrentEnd Value="384" />
+										<Loop>
+											<LoopStart Value="0" />
+											<LoopEnd Value="8" />
+											<StartRelative Value="0" />
+											<LoopOn Value="true" />
+											<OutMarker Value="8" />
+											<HiddenLoopStart Value="0" />
+											<HiddenLoopEnd Value="8" />
+										</Loop>
+										<Name Value="BW_Shaker_Loop_122_04" />
+										<Annotation Value="" />
+										<Color Value="19" />
+										<LaunchMode Value="0" />
+										<LaunchQuantisation Value="0" />
+										<TimeSignature>
+											<TimeSignatures>
+												<RemoteableTimeSignature Id="0">
+													<Numerator Value="4" />
+													<Denominator Value="4" />
+													<Time Value="0" />
+												</RemoteableTimeSignature>
+											</TimeSignatures>
+										</TimeSignature>
+										<Envelopes>
+											<Envelopes />
+										</Envelopes>
+										<ScrollerTimePreserver>
+											<LeftTime Value="0" />
+											<RightTime Value="8" />
+										</ScrollerTimePreserver>
+										<TimeSelection>
+											<AnchorTime Value="0" />
+											<OtherTime Value="0" />
+										</TimeSelection>
+										<Legato Value="false" />
+										<Ram Value="false" />
+										<GrooveSettings>
+											<GrooveId Value="-1" />
+										</GrooveSettings>
+										<Disabled Value="false" />
+										<VelocityAmount Value="0" />
+										<FollowAction>
+											<FollowTime Value="4" />
+											<IsLinked Value="true" />
+											<LoopIterations Value="1" />
+											<FollowActionA Value="4" />
+											<FollowActionB Value="0" />
+											<FollowChanceA Value="100" />
+											<FollowChanceB Value="0" />
+											<JumpIndexA Value="1" />
+											<JumpIndexB Value="1" />
+											<FollowActionEnabled Value="false" />
+										</FollowAction>
+										<Grid>
+											<FixedNumerator Value="1" />
+											<FixedDenominator Value="16" />
+											<GridIntervalPixel Value="20" />
+											<Ntoles Value="2" />
+											<SnapToGrid Value="true" />
+											<Fixed Value="false" />
+										</Grid>
+										<FreezeStart Value="0" />
+										<FreezeEnd Value="0" />
+										<IsWarped Value="true" />
+										<TakeId Value="1" />
+										<IsInKey Value="false" />
+										<ScaleInformation>
+											<Root Value="0" />
+											<Name Value="0" />
+										</ScaleInformation>
+										<SampleRef>
+											<FileRef>
+												<RelativePathType Value="1" />
+												<RelativePath Value="../../Documents/Libraries/Basic Wavez - Gentle Hats And Shakers Vol. 2/Shaker Loops/BW_Shaker_Loop_122_04.wav" />
+												<Path Value="/Users/marianoribas/Documents/Libraries/Basic Wavez - Gentle Hats And Shakers Vol. 2/Shaker Loops/BW_Shaker_Loop_122_04.wav" />
+												<Type Value="2" />
+												<LivePackName Value="" />
+												<LivePackId Value="" />
+												<OriginalFileSize Value="1041134" />
+												<OriginalCrc Value="15013" />
+											</FileRef>
+											<LastModDate Value="1727096194" />
+											<SourceContext>
+												<SourceContext Id="0">
+													<OriginalFileRef>
+														<FileRef Id="1">
+															<RelativePathType Value="1" />
+															<RelativePath Value="../../Documents/Libraries/Basic Wavez - Gentle Hats And Shakers Vol. 2/Shaker Loops/BW_Shaker_Loop_122_04.wav" />
+															<Path Value="/Users/marianoribas/Documents/Libraries/Basic Wavez - Gentle Hats And Shakers Vol. 2/Shaker Loops/BW_Shaker_Loop_122_04.wav" />
+															<Type Value="2" />
+															<LivePackName Value="" />
+															<LivePackId Value="" />
+															<OriginalFileSize Value="1041134" />
+															<OriginalCrc Value="15013" />
+														</FileRef>
+													</OriginalFileRef>
+													<BrowserContentPath Value="userfolder:/Users/marianoribas/Documents/Libraries#Basic%20Wavez%20-%20Gentle%20Hats%20And%20Shakers%20Vol.%202:Shaker%20Loops:BW_Shaker_Loop_122_04.wav" />
+													<LocalFiltersJson Value="" />
+												</SourceContext>
+											</SourceContext>
+											<SampleUsageHint Value="0" />
+											<DefaultDuration Value="173509" />
+											<DefaultSampleRate Value="44100" />
+											<SamplesToAutoWarp Value="1" />
+										</SampleRef>
+										<Onsets>
+											<UserOnsets />
+											<HasUserOnsets Value="false" />
+										</Onsets>
+										<WarpMode Value="4" />
+										<GranularityTones Value="30" />
+										<GranularityTexture Value="65" />
+										<FluctuationTexture Value="25" />
+										<TransientResolution Value="6" />
+										<TransientLoopMode Value="2" />
+										<TransientEnvelope Value="100" />
+										<ComplexProFormants Value="100" />
+										<ComplexProEnvelope Value="128" />
+										<Sync Value="true" />
+										<HiQ Value="true" />
+										<Fade Value="false" />
+										<Fades>
+											<FadeInLength Value="0" />
+											<FadeOutLength Value="0" />
+											<ClipFadesAreInitialized Value="true" />
+											<CrossfadeInState Value="0" />
+											<FadeInCurveSkew Value="0" />
+											<FadeInCurveSlope Value="0" />
+											<FadeOutCurveSkew Value="0" />
+											<FadeOutCurveSlope Value="0" />
+											<IsDefaultFadeIn Value="false" />
+											<IsDefaultFadeOut Value="false" />
+										</Fades>
+										<PitchCoarse Value="0" />
+										<PitchFine Value="0" />
+										<SampleVolume Value="1" />
+										<WarpMarkers>
+											<WarpMarker Id="0" SecTime="0" BeatTime="0" />
+											<WarpMarker Id="1" SecTime="3.9344444444444444" BeatTime="8" />
+											<WarpMarker Id="2" SecTime="3.9498133680555556" BeatTime="8.03125" />
+										</WarpMarkers>
+										<SavedWarpMarkersForStretched />
+										<MarkersGenerated Value="true" />
+										<IsSongTempoLeader Value="false" />
+										<AutoWarpPending Value="false" />
+										<WasMuted Value="false" />
+									</AudioClip>
+									<AudioClip Id="3" Time="384">
+										<LomId Value="0" />
+										<LomIdView Value="0" />
+										<CurrentStart Value="384" />
+										<CurrentEnd Value="408" />
+										<Loop>
+											<LoopStart Value="0" />
+											<LoopEnd Value="8" />
+											<StartRelative Value="0" />
+											<LoopOn Value="true" />
+											<OutMarker Value="8" />
+											<HiddenLoopStart Value="0" />
+											<HiddenLoopEnd Value="8" />
+										</Loop>
+										<Name Value="BW_Ride_Loop_122_03" />
+										<Annotation Value="" />
+										<Color Value="13" />
+										<LaunchMode Value="0" />
+										<LaunchQuantisation Value="0" />
+										<TimeSignature>
+											<TimeSignatures>
+												<RemoteableTimeSignature Id="0">
+													<Numerator Value="4" />
+													<Denominator Value="4" />
+													<Time Value="0" />
+												</RemoteableTimeSignature>
+											</TimeSignatures>
+										</TimeSignature>
+										<Envelopes>
+											<Envelopes />
+										</Envelopes>
+										<ScrollerTimePreserver>
+											<LeftTime Value="0" />
+											<RightTime Value="8" />
+										</ScrollerTimePreserver>
+										<TimeSelection>
+											<AnchorTime Value="0" />
+											<OtherTime Value="0" />
+										</TimeSelection>
+										<Legato Value="false" />
+										<Ram Value="false" />
+										<GrooveSettings>
+											<GrooveId Value="-1" />
+										</GrooveSettings>
+										<Disabled Value="false" />
+										<VelocityAmount Value="0" />
+										<FollowAction>
+											<FollowTime Value="4" />
+											<IsLinked Value="true" />
+											<LoopIterations Value="1" />
+											<FollowActionA Value="4" />
+											<FollowActionB Value="0" />
+											<FollowChanceA Value="100" />
+											<FollowChanceB Value="0" />
+											<JumpIndexA Value="1" />
+											<JumpIndexB Value="1" />
+											<FollowActionEnabled Value="false" />
+										</FollowAction>
+										<Grid>
+											<FixedNumerator Value="1" />
+											<FixedDenominator Value="16" />
+											<GridIntervalPixel Value="20" />
+											<Ntoles Value="2" />
+											<SnapToGrid Value="true" />
+											<Fixed Value="false" />
+										</Grid>
+										<FreezeStart Value="0" />
+										<FreezeEnd Value="0" />
+										<IsWarped Value="true" />
+										<TakeId Value="3" />
+										<IsInKey Value="false" />
+										<ScaleInformation>
+											<Root Value="0" />
+											<Name Value="0" />
+										</ScaleInformation>
+										<SampleRef>
+											<FileRef>
+												<RelativePathType Value="1" />
+												<RelativePath Value="../../Documents/Libraries/Basic Wavez - Gentle Hats And Shakers Vol. 2/Ride Loops/BW_Ride_Loop_122_03.wav" />
+												<Path Value="/Users/marianoribas/Documents/Libraries/Basic Wavez - Gentle Hats And Shakers Vol. 2/Ride Loops/BW_Ride_Loop_122_03.wav" />
+												<Type Value="2" />
+												<LivePackName Value="" />
+												<LivePackId Value="" />
+												<OriginalFileSize Value="1041134" />
+												<OriginalCrc Value="22610" />
+											</FileRef>
+											<LastModDate Value="1727108424" />
+											<SourceContext>
+												<SourceContext Id="0">
+													<OriginalFileRef>
+														<FileRef Id="0">
+															<RelativePathType Value="1" />
+															<RelativePath Value="../../Documents/Libraries/Basic Wavez - Gentle Hats And Shakers Vol. 2/Ride Loops/BW_Ride_Loop_122_03.wav" />
+															<Path Value="/Users/marianoribas/Documents/Libraries/Basic Wavez - Gentle Hats And Shakers Vol. 2/Ride Loops/BW_Ride_Loop_122_03.wav" />
+															<Type Value="2" />
+															<LivePackName Value="" />
+															<LivePackId Value="" />
+															<OriginalFileSize Value="1041134" />
+															<OriginalCrc Value="22610" />
+														</FileRef>
+													</OriginalFileRef>
+													<BrowserContentPath Value="userfolder:/Users/marianoribas/Documents/Libraries#Basic%20Wavez%20-%20Gentle%20Hats%20And%20Shakers%20Vol.%202:Ride%20Loops:BW_Ride_Loop_122_03.wav" />
 													<LocalFiltersJson Value="" />
 												</SourceContext>
 											</SourceContext>
@@ -2316,7 +2772,7 @@
 										<NumAudioOutputs Value="1" />
 										<IsPlaceholderDevice Value="false" />
 										<Preset>
-											<Vst3Preset Id="6">
+											<Vst3Preset Id="7">
 												<OverwriteProtectionNumber Value="3073" />
 												<MpeEnabled Value="0" />
 												<MpeSettings>
@@ -7671,7 +8127,7 @@
 										<NumAudioOutputs Value="1" />
 										<IsPlaceholderDevice Value="false" />
 										<Preset>
-											<Vst3Preset Id="6">
+											<Vst3Preset Id="7">
 												<OverwriteProtectionNumber Value="3073" />
 												<MpeEnabled Value="0" />
 												<MpeSettings>
@@ -13381,7 +13837,7 @@
 										<NumAudioOutputs Value="1" />
 										<IsPlaceholderDevice Value="false" />
 										<Preset>
-											<Vst3Preset Id="6">
+											<Vst3Preset Id="7">
 												<OverwriteProtectionNumber Value="3073" />
 												<MpeEnabled Value="0" />
 												<MpeSettings>
@@ -21217,7 +21673,7 @@
 									<NumAudioOutputs Value="1" />
 									<IsPlaceholderDevice Value="false" />
 									<Preset>
-										<Vst3Preset Id="4">
+										<Vst3Preset Id="5">
 											<OverwriteProtectionNumber Value="3073" />
 											<MpeEnabled Value="0" />
 											<MpeSettings>
@@ -24965,7 +25421,7 @@
 									<NumAudioOutputs Value="1" />
 									<IsPlaceholderDevice Value="false" />
 									<Preset>
-										<Vst3Preset Id="4">
+										<Vst3Preset Id="5">
 											<OverwriteProtectionNumber Value="3073" />
 											<MpeEnabled Value="0" />
 											<MpeSettings>
@@ -29395,7 +29851,7 @@
 									<NumberOfPrograms Value="9" />
 									<Flags Value="1284" />
 									<Preset>
-										<VstPreset Id="2">
+										<VstPreset Id="3">
 											<OverwriteProtectionNumber Value="3073" />
 											<MpeEnabled Value="0" />
 											<MpeSettings>
@@ -33212,7 +33668,7 @@
 									<NumAudioOutputs Value="1" />
 									<IsPlaceholderDevice Value="false" />
 									<Preset>
-										<Vst3Preset Id="4">
+										<Vst3Preset Id="5">
 											<OverwriteProtectionNumber Value="3073" />
 											<MpeEnabled Value="0" />
 											<MpeSettings>
@@ -42712,7 +43168,7 @@
 			<LoopStart Value="64" />
 			<LoopLength Value="64" />
 			<LoopIsSongStart Value="false" />
-			<CurrentTime Value="384" />
+			<CurrentTime Value="408" />
 			<PunchIn Value="false" />
 			<PunchOut Value="false" />
 			<MetronomeTickDuration Value="0" />
@@ -42723,7 +43179,7 @@
 		<GlobalQuantisation Value="4" />
 		<AutoQuantisation Value="0" />
 		<Grid>
-			<FixedNumerator Value="8" />
+			<FixedNumerator Value="2" />
 			<FixedDenominator Value="1" />
 			<GridIntervalPixel Value="20" />
 			<Ntoles Value="2" />
@@ -42737,15 +43193,15 @@
 		<InKey Value="false" />
 		<SmpteFormat Value="0" />
 		<TimeSelection>
-			<AnchorTime Value="320" />
-			<OtherTime Value="384" />
+			<AnchorTime Value="384" />
+			<OtherTime Value="408" />
 		</TimeSelection>
 		<SequencerNavigator>
 			<BeatTimeHelper>
-				<CurrentZoom Value="0.766328011611030369" />
+				<CurrentZoom Value="0.493558282090763023" />
 			</BeatTimeHelper>
-			<ScrollerPos X="0" Y="0" />
-			<ClientSize X="1481" Y="945" />
+			<ScrollerPos X="-195" Y="0" />
+			<ClientSize X="1481" Y="909" />
 		</SequencerNavigator>
 		<IsContentSplitterOpen Value="true" />
 		<IsExpressionSplitterOpen Value="true" />
@@ -42890,10 +43346,10 @@
 		<ShowVideoWindow Value="true" />
 		<TuningSystems />
 		<TrackHeaderWidth Value="93" />
-		<ViewStateMainWindowClipDetailOpen Value="false" />
+		<ViewStateMainWindowClipDetailOpen Value="true" />
 		<ViewStateMainWindowHiddenOtherDocViewTypeClipDetailOpen Value="true" />
 		<ViewStateMainWindowHiddenOtherDocViewTypeDeviceDetailOpen Value="false" />
-		<ViewStateMainWindowDeviceDetailOpen Value="true" />
+		<ViewStateMainWindowDeviceDetailOpen Value="false" />
 		<ViewStateSecondWindowClipDetailOpen Value="false" />
 		<ViewStateSecondWindowDeviceDetailOpen Value="false" />
 		<ViewStates>
