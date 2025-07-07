@@ -512,7 +512,7 @@
 											<SourceContext>
 												<SourceContext Id="0">
 													<OriginalFileRef>
-														<FileRef Id="2">
+														<FileRef Id="3">
 															<RelativePathType Value="1" />
 															<RelativePath Value="../../Documents/Libraries/Basic Wavez - Gentle Hats And Shakers Vol. 2/Shaker Loops/BW_Shaker_Loop_122_05.wav" />
 															<Path Value="/Users/marianoribas/Documents/Libraries/Basic Wavez - Gentle Hats And Shakers Vol. 2/Shaker Loops/BW_Shaker_Loop_122_05.wav" />
@@ -664,7 +664,7 @@
 											<SourceContext>
 												<SourceContext Id="0">
 													<OriginalFileRef>
-														<FileRef Id="3">
+														<FileRef Id="4">
 															<RelativePathType Value="1" />
 															<RelativePath Value="../../Documents/Libraries/Basic Wavez - Gentle Hats And Shakers Vol. 2/Shaker Loops/BW_Shaker_Loop_122_04.wav" />
 															<Path Value="/Users/marianoribas/Documents/Libraries/Basic Wavez - Gentle Hats And Shakers Vol. 2/Shaker Loops/BW_Shaker_Loop_122_04.wav" />
@@ -816,7 +816,7 @@
 											<SourceContext>
 												<SourceContext Id="0">
 													<OriginalFileRef>
-														<FileRef Id="3">
+														<FileRef Id="4">
 															<RelativePathType Value="1" />
 															<RelativePath Value="../../Documents/Libraries/Basic Wavez - Gentle Hats And Shakers Vol. 2/Shaker Loops/BW_Shaker_Loop_122_04.wav" />
 															<Path Value="/Users/marianoribas/Documents/Libraries/Basic Wavez - Gentle Hats And Shakers Vol. 2/Shaker Loops/BW_Shaker_Loop_122_04.wav" />
@@ -968,7 +968,7 @@
 											<SourceContext>
 												<SourceContext Id="0">
 													<OriginalFileRef>
-														<FileRef Id="2">
+														<FileRef Id="3">
 															<RelativePathType Value="1" />
 															<RelativePath Value="../../Documents/Libraries/Basic Wavez - Gentle Hats And Shakers Vol. 2/Ride Loops/BW_Ride_Loop_122_03.wav" />
 															<Path Value="/Users/marianoribas/Documents/Libraries/Basic Wavez - Gentle Hats And Shakers Vol. 2/Ride Loops/BW_Ride_Loop_122_03.wav" />
@@ -2009,8 +2009,8 @@
 					<AutomationLanes>
 						<AutomationLanes>
 							<AutomationLane Id="0">
-								<SelectedDevice Value="0" />
-								<SelectedEnvelope Value="0" />
+								<SelectedDevice Value="1" />
+								<SelectedEnvelope Value="4" />
 								<IsContentSelectedInDocument Value="false" />
 								<LaneHeight Value="68" />
 							</AutomationLane>
@@ -2018,8 +2018,8 @@
 						<AreAdditionalAutomationLanesFolded Value="false" />
 					</AutomationLanes>
 					<ClipEnvelopeChooserViewState>
-						<SelectedDevice Value="0" />
-						<SelectedEnvelope Value="0" />
+						<SelectedDevice Value="1" />
+						<SelectedEnvelope Value="4" />
 						<PreferModulationVisible Value="false" />
 					</ClipEnvelopeChooserViewState>
 					<AudioInputRouting>
@@ -2585,8 +2585,8 @@
 								<ModulationSourceCount Value="0" />
 								<ParametersListWrapper LomId="0" />
 								<Pointee Id="38448" />
-								<LastSelectedTimeableIndex Value="0" />
-								<LastSelectedClipEnvelopeIndex Value="0" />
+								<LastSelectedTimeableIndex Value="4" />
+								<LastSelectedClipEnvelopeIndex Value="4" />
 								<LastPresetRef>
 									<Value />
 								</LastPresetRef>
@@ -2609,13 +2609,13 @@
 								<MpePitchBendUsesTuning Value="true" />
 								<PluginDesc>
 									<Vst3PluginInfo Id="0">
-										<WinPosX Value="-1" />
-										<WinPosY Value="-1" />
+										<WinPosX Value="47" />
+										<WinPosY Value="72" />
 										<NumAudioInputs Value="2" />
 										<NumAudioOutputs Value="1" />
 										<IsPlaceholderDevice Value="false" />
 										<Preset>
-											<Vst3Preset Id="1">
+											<Vst3Preset Id="2">
 												<OverwriteProtectionNumber Value="3073" />
 												<MpeEnabled Value="0" />
 												<MpeSettings>
@@ -2644,12 +2644,13 @@
 												</Uid>
 												<DeviceType Value="2" />
 												<ProcessorState>
-													46616246020000000F00000044656661756C742053657474696E6700000000130000000000000000
-													0040400000803EDD96CB3E69E2D53E9A99193F0000803F0000000000000000000000400000000000
-													00000000000000000000000000803F000000000000803F0000803F000000000100000001000000
+													46616246020000002900000046696C6D2053636F7265202D2053746572656F204669656C64204D61
+													6E6970756C6174696F6E20624D0000000013000000EC51B6410000803F7CF39E3F227CAF3EE0CF09
+													3FCE18773F6C54993E00000000000000000000004000000000000000000000000000000000000080
+													3F000000000000803F0000803F000000000100000001000000
 												</ProcessorState>
 												<ControllerState>
-													464665640000000000000000
+													46466564000000000000803F
 												</ControllerState>
 												<Name Value="" />
 												<PresetRef />
@@ -2679,7 +2680,7 @@
 										<VisualIndex Value="0" />
 										<ParameterValue>
 											<LomId Value="0" />
-											<Manual Value="0" />
+											<Manual Value="22.7900009" />
 											<MidiControllerRange>
 												<Min Value="0" />
 												<Max Value="30" />
@@ -2707,7 +2708,7 @@
 										<VisualIndex Value="1" />
 										<ParameterValue>
 											<LomId Value="0" />
-											<Manual Value="3" />
+											<Manual Value="1" />
 											<MidiControllerRange>
 												<Min Value="0" />
 												<Max Value="3" />
@@ -2735,7 +2736,7 @@
 										<VisualIndex Value="2" />
 										<ParameterValue>
 											<LomId Value="0" />
-											<Manual Value="0.25" />
+											<Manual Value="1.24180555" />
 											<MidiControllerRange>
 												<Min Value="0" />
 												<Max Value="5" />
@@ -2763,7 +2764,7 @@
 										<VisualIndex Value="3" />
 										<ParameterValue>
 											<LomId Value="0" />
-											<Manual Value="0.3976353705" />
+											<Manual Value="0.3427439332" />
 											<MidiControllerRange>
 												<Min Value="0" />
 												<Max Value="1" />
@@ -2791,7 +2792,7 @@
 										<VisualIndex Value="4" />
 										<ParameterValue>
 											<LomId Value="0" />
-											<Manual Value="0.4177429974" />
+											<Manual Value="0.5383281708" />
 											<MidiControllerRange>
 												<Min Value="0" />
 												<Max Value="1" />
@@ -2819,7 +2820,7 @@
 										<VisualIndex Value="5" />
 										<ParameterValue>
 											<LomId Value="0" />
-											<Manual Value="0.6000000238" />
+											<Manual Value="0.9652222395" />
 											<MidiControllerRange>
 												<Min Value="0" />
 												<Max Value="1" />
@@ -2847,7 +2848,7 @@
 										<VisualIndex Value="6" />
 										<ParameterValue>
 											<LomId Value="0" />
-											<Manual Value="1" />
+											<Manual Value="0.2994722128" />
 											<MidiControllerRange>
 												<Min Value="0" />
 												<Max Value="1" />
@@ -7876,7 +7877,7 @@
 										<NumAudioOutputs Value="1" />
 										<IsPlaceholderDevice Value="false" />
 										<Preset>
-											<Vst3Preset Id="9">
+											<Vst3Preset Id="10">
 												<OverwriteProtectionNumber Value="3073" />
 												<MpeEnabled Value="0" />
 												<MpeSettings>
@@ -13231,7 +13232,7 @@
 										<NumAudioOutputs Value="1" />
 										<IsPlaceholderDevice Value="false" />
 										<Preset>
-											<Vst3Preset Id="9">
+											<Vst3Preset Id="10">
 												<OverwriteProtectionNumber Value="3073" />
 												<MpeEnabled Value="0" />
 												<MpeSettings>
@@ -18941,7 +18942,7 @@
 										<NumAudioOutputs Value="1" />
 										<IsPlaceholderDevice Value="false" />
 										<Preset>
-											<Vst3Preset Id="9">
+											<Vst3Preset Id="10">
 												<OverwriteProtectionNumber Value="3073" />
 												<MpeEnabled Value="0" />
 												<MpeSettings>
@@ -26777,7 +26778,7 @@
 									<NumAudioOutputs Value="1" />
 									<IsPlaceholderDevice Value="false" />
 									<Preset>
-										<Vst3Preset Id="7">
+										<Vst3Preset Id="8">
 											<OverwriteProtectionNumber Value="3073" />
 											<MpeEnabled Value="0" />
 											<MpeSettings>
@@ -30525,7 +30526,7 @@
 									<NumAudioOutputs Value="1" />
 									<IsPlaceholderDevice Value="false" />
 									<Preset>
-										<Vst3Preset Id="7">
+										<Vst3Preset Id="8">
 											<OverwriteProtectionNumber Value="3073" />
 											<MpeEnabled Value="0" />
 											<MpeSettings>
@@ -34955,7 +34956,7 @@
 									<NumberOfPrograms Value="9" />
 									<Flags Value="1284" />
 									<Preset>
-										<VstPreset Id="5">
+										<VstPreset Id="6">
 											<OverwriteProtectionNumber Value="3073" />
 											<MpeEnabled Value="0" />
 											<MpeSettings>
@@ -38772,7 +38773,7 @@
 									<NumAudioOutputs Value="1" />
 									<IsPlaceholderDevice Value="false" />
 									<Preset>
-										<Vst3Preset Id="7">
+										<Vst3Preset Id="8">
 											<OverwriteProtectionNumber Value="3073" />
 											<MpeEnabled Value="0" />
 											<MpeSettings>
@@ -38806,8 +38807,8 @@
 												00000000000000000000000000000000000000000000000000000000000000000000000000000000
 												00000000000000000000000000000000000000000000000000000000000000000000000000000000
 												0000000000000000000000000003499856433221534903003C3F786D6C2076657273696F6E3D2231
-												2E302220656E636F64696E673D225554462D38223F3E203C737461746520757569643D2264656538
-												313731642D313836632D343934342D623331352D6434303032303730656366332220686561647068
+												2E302220656E636F64696E673D225554462D38223F3E203C737461746520757569643D2235613036
+												653762652D643361662D343137372D616636612D3235656132633939626163332220686561647068
 												6F6E654D6F6465456E61626C65643D2231223E3C73657474696E67732070726F66696C653D222220
 												627970617373456E61626C65643D223122206368616E6E656C526F75746572456E61626C65643D22
 												30222062616C616E63654551456E61626C65643D2230222064656C6179436F6D70656E736174696F
@@ -44187,7 +44188,7 @@
 												6F743B3A2671756F743B696E6E65722671756F743B2C2671756F743B6C656674467265712671756F
 												743B3A32302E302C2671756F743B7269676874467265712671756F743B3A32303030302E307D2C26
 												71756F743B66696C746572732671756F743B3A6E756C6C7D5D2C2671756F743B69642671756F743B
-												3A2671756F743B64656661756C747C313735313837343735313133382671756F743B2C2671756F74
+												3A2671756F743B64656661756C747C313735313837353330353132372671756F743B2C2671756F74
 												3B6D6F6469666965642671756F743B3A66616C73652C2671756F743B6E616D652671756F743B3A26
 												71756F743B6365715F64656661756C745F7072657365742671756F743B7D5D7D222F3E3C2F737461
 												74653E0000000000000000004A554345507269766174654461746100010142797061737300010103
@@ -48302,7 +48303,7 @@
 		</TimeSelection>
 		<SequencerNavigator>
 			<BeatTimeHelper>
-				<CurrentZoom Value="0.493558282090763023" />
+				<CurrentZoom Value="0.493522516964836511" />
 			</BeatTimeHelper>
 			<ScrollerPos X="-195" Y="0" />
 			<ClientSize X="1481" Y="945" />
@@ -48417,7 +48418,7 @@
 		<SoloInPlace Value="true" />
 		<CrossfadeCurve Value="2" />
 		<LatencyCompensation Value="2" />
-		<HighlightedTrackIndex Value="1" />
+		<HighlightedTrackIndex Value="2" />
 		<GroovePool>
 			<LomId Value="0" />
 			<Grooves />
@@ -48509,11 +48510,11 @@
 			</TimeFilterAlgorithm>
 			<ArpeggiateAlgorithm Id="2">
 				<NamedKeyMidiRemoteables>
-					<NamedRemoteableKeyMidi Id="20" Name="Rate" />
-					<NamedRemoteableKeyMidi Id="21" Name="Steps" />
-					<NamedRemoteableKeyMidi Id="22" Name="Distance" />
-					<NamedRemoteableKeyMidi Id="23" Name="Gate" />
-					<NamedRemoteableKeyMidi Id="24" Name="Style" />
+					<NamedRemoteableKeyMidi Id="25" Name="Rate" />
+					<NamedRemoteableKeyMidi Id="26" Name="Steps" />
+					<NamedRemoteableKeyMidi Id="27" Name="Distance" />
+					<NamedRemoteableKeyMidi Id="28" Name="Gate" />
+					<NamedRemoteableKeyMidi Id="29" Name="Style" />
 				</NamedKeyMidiRemoteables>
 				<Rate Value="10" />
 				<Steps Value="2" />
@@ -48523,20 +48524,20 @@
 			</ArpeggiateAlgorithm>
 			<RhythmAlgorithm Id="3">
 				<NamedKeyMidiRemoteables>
-					<NamedRemoteableKeyMidi Id="56" Name="Density" />
-					<NamedRemoteableKeyMidi Id="57" Name="Repetitions" />
-					<NamedRemoteableKeyMidi Id="58" Name="Pattern" />
-					<NamedRemoteableKeyMidi Id="59" Name="Steps" />
-					<NamedRemoteableKeyMidi Id="60" Name="Pitch" />
-					<NamedRemoteableKeyMidi Id="61" Name="Velocity" />
-					<NamedRemoteableKeyMidi Id="62" Name="Accent" />
-					<NamedRemoteableKeyMidi Id="63" Name="Period" />
-					<NamedRemoteableKeyMidi Id="64" Name="Offset" />
-					<NamedRemoteableKeyMidi Id="65" Name="Shift" />
-					<NamedRemoteableKeyMidi Id="66" Name="StepDuration" />
-					<NamedRemoteableKeyMidi Id="67" Name="Split" />
-					<NamedRemoteableKeyMidi Id="68" Name="VelocityOffsetIncrement" />
-					<NamedRemoteableKeyMidi Id="69" Name="VelocityOffsetDecrement" />
+					<NamedRemoteableKeyMidi Id="70" Name="Density" />
+					<NamedRemoteableKeyMidi Id="71" Name="Repetitions" />
+					<NamedRemoteableKeyMidi Id="72" Name="Pattern" />
+					<NamedRemoteableKeyMidi Id="73" Name="Steps" />
+					<NamedRemoteableKeyMidi Id="74" Name="Pitch" />
+					<NamedRemoteableKeyMidi Id="75" Name="Velocity" />
+					<NamedRemoteableKeyMidi Id="76" Name="Accent" />
+					<NamedRemoteableKeyMidi Id="77" Name="Period" />
+					<NamedRemoteableKeyMidi Id="78" Name="Offset" />
+					<NamedRemoteableKeyMidi Id="79" Name="Shift" />
+					<NamedRemoteableKeyMidi Id="80" Name="StepDuration" />
+					<NamedRemoteableKeyMidi Id="81" Name="Split" />
+					<NamedRemoteableKeyMidi Id="82" Name="VelocityOffsetIncrement" />
+					<NamedRemoteableKeyMidi Id="83" Name="VelocityOffsetDecrement" />
 				</NamedKeyMidiRemoteables>
 				<Density Value="4" />
 				<Repetitions Value="1" />
@@ -48553,11 +48554,11 @@
 			</RhythmAlgorithm>
 			<QuantizeAlgorithm Id="4">
 				<NamedKeyMidiRemoteables>
-					<NamedRemoteableKeyMidi Id="10" Name="TripletReference" />
-					<NamedRemoteableKeyMidi Id="11" Name="QuantizeReference" />
-					<NamedRemoteableKeyMidi Id="12" Name="Amount" />
-					<NamedRemoteableKeyMidi Id="13" Name="QuantizeNoteStarts" />
-					<NamedRemoteableKeyMidi Id="14" Name="QuantizeNoteEnds" />
+					<NamedRemoteableKeyMidi Id="15" Name="TripletReference" />
+					<NamedRemoteableKeyMidi Id="16" Name="QuantizeReference" />
+					<NamedRemoteableKeyMidi Id="17" Name="Amount" />
+					<NamedRemoteableKeyMidi Id="18" Name="QuantizeNoteStarts" />
+					<NamedRemoteableKeyMidi Id="19" Name="QuantizeNoteEnds" />
 				</NamedKeyMidiRemoteables>
 				<Reference Value="0" />
 				<TripletReference Value="false" />
